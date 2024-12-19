@@ -10,7 +10,8 @@ The **Home Automation System** is a smart solution to control and monitor your h
 - **Energy Efficiency**: Reduce power consumption by monitoring appliance usage.
 
 ## 📂 Project Contents
-- **Video Demonstration**: [Video Demonstration](./project-video-1.mp4) 
+- **Video Demonstration**:
+Uploading project-video-1.mp4…
 - **Photo Overview**: ![System Snapshot](./project-image-1.jpg)
 
 ## 🛠️ How It Works
