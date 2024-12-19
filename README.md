@@ -13,7 +13,7 @@ The **Home Automation System** is a smart solution to control and monitor your h
 
 - **Video Demonstration**:
 
-Uploading project-video-1.mp4…
+https://github.com/user-attachments/assets/db9ddda9-c299-4df3-a257-201b84f96679
 
 
 - **Photo Overview**: ![System Snapshot](./project-image-1.jpg)
